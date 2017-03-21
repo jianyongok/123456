@@ -40,12 +40,12 @@
 </head>
 <body>
 <ul>
-    <li><img src="images/1.JPG" alt=""></li>
-    <li><img src="images/2.JPG" alt=""></li>
-    <li><img src="images/3.JPG" alt=""></li>
-    <li><img src="images/4.JPG" alt=""></li>
-    <li><img src="images/5.JPG" alt=""></li>
-    <li><img src="images/6.JPG" alt=""></li>
+    <li><img src="images/1.jpg" alt=""></li>
+    <li><img src="images/2.jpg" alt=""></li>
+    <li><img src="images/3.jpg" alt=""></li>
+    <li><img src="images/4.jpg" alt=""></li>
+    <li><img src="images/5.jpg" alt=""></li>
+    <li><img src="images/6.jpg" alt=""></li>
 </ul>
 </body>
 </html>
